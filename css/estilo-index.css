@@ -1,0 +1,100 @@
+/***Geral**/
+
+body{
+	
+	font-family: sans-serif;
+}
+
+/*Estilo cabeçalho*/
+herder{
+	display: flex;
+	flex-direction: row;
+	background-color: #2c3e50;
+	opacity: 0.9;
+}
+
+h1{
+	padding: 10px;
+	margin-left: 70px;
+	color: white;
+	font-size: 40px;
+	letter-spacing: 1px;
+}
+
+p{
+	margin-left: 700px;
+	color: white;
+}
+
+span{
+	color: #29ffc6;
+}
+/** Article**/
+
+article{
+	width: 700;
+	text-align: center;
+	margin-top: 100px;
+	display: flex;
+	flex-direction: column;
+}
+
+.texto-1{
+	color: #000;
+	opacity: 0.7;
+	letter-spacing: 1px;
+}
+
+section{
+	clear: both;
+}
+.boneco{
+	width: 300px;
+	height: 300px;
+	margin-right: 550px;
+	float: right;
+ }
+
+/**Menu lateral**/
+#menu-lateral{
+	width: 300px;
+	height-bottom: 500px;
+	clear: both;
+	margin-top: -533px;
+	opacity: 0.9;
+	background-color: #2c3e50;
+
+}
+
+#opcoes,a{
+	padding: 10px;
+	margin: 15px;
+	color: #29ffc6;
+	text-decoration: none;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	letter-spacing: 1px;
+	border-bottom: 1px solid #fff;
+
+}
+
+a:hover{
+	background: #29ffc6;
+	color: #fff;
+	border-radius: 10px;
+
+}
+/**Rodapé*/
+
+#rodape{ 
+	background-color:#2c3e50;
+	color: #fff;
+	opacity: 0.9;
+	text-align: center;
+	height: 50px;
+}
+
+h4{
+	padding: 20px;
+}

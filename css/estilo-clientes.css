@@ -1,0 +1,62 @@
+
+/***Geral**/
+
+body{
+	background-color: #bdc3c7;
+	font-family: sans-serif;
+}
+
+/*Estilo cabeçalho*/
+herder{
+	display: flex;
+	flex-direction: row;
+	background-color: #2c3e50;
+	opacity: 0.9;
+}
+
+h1{
+	padding: 10px;
+	margin-left: 70px;
+	color: white;
+	font-size: 40px;
+	letter-spacing: 1px;
+}
+
+p{
+	margin-left: 700px;
+	color: white;
+}
+
+span{
+	color: #29ffc6;
+}
+/** Article**/
+
+main{
+    padding: 20px;
+  
+}
+
+.texto-1{
+    margin-top: 50px;
+	color: #000;
+	opacity: 0.7;
+	letter-spacing: 1px;
+    text-align: center;
+}
+
+
+
+/**Rodapé*/
+
+#rodape{ 
+	background-color:#2c3e50;
+	color: #fff;
+	opacity: 0.9;
+	text-align: center;
+	height: 50px;
+}
+
+h4{
+	padding: 20px;
+}
