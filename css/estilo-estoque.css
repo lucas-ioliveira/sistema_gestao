@@ -60,3 +60,9 @@ section{
 h4{
 	padding: 20px;
 }
+
+/*Botões*/
+.botoes{
+	display: flex;
+	margin-left: 60px;
+}

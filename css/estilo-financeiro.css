@@ -47,6 +47,14 @@ section{
     
     align-items: center;
 }
+
+.botoes{
+	display: flex;
+	margin-left: 60px;
+	
+}
+
+
 /**Rodapé*/
 
 #rodape{ 

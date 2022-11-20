@@ -45,6 +45,10 @@ main{
     text-align: center;
 }
 
+.botoes{
+	display: flex;
+	
+}
 
 
 /**Rodapé*/
